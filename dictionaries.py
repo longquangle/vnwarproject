@@ -66,6 +66,3 @@ province_id = {'An Giang Province, South Vietnam' : 'An Giang',
                'Tuyen Duc Province, South Vietnam' : 'Lam Dong', 
                'Vinh Binh Province, South Vietnam' : 'Tra Vinh',
                'Vinh Long Province, South Vietnam' : 'Vinh Long'}
-
-
-overlap = {'Go Cong Province, South Vietnam': 'Dinh Tuong Province, South Vietnam'}
